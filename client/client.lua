@@ -3,7 +3,7 @@ local showMessage = false
 
 RegisterNetEvent('NAT2K15:STAFFANNOUNCE')
 AddEventHandler('NAT2K15:STAFFANNOUNCE', function(message)
-    message = staffs
+    msg = message
     showMessage = true
     PlaySoundFrontend(-1, "DELETE","HUD_DEATHMATCH_SOUNDSET", 1)
 	Citizen.Wait(1000 * config.length)
