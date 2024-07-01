@@ -4,11 +4,11 @@ Simple script for staff to use to announce things in the server.
 
 ## Features
 - Friendly Config
-- Only works with the Framework V1 and V2
+- Only works with the Framework V2 (2.0 Version and Up)
 - Massive text on screen
 
 ## Screenshot
-![](http://cdn.nat2k15.xyz/img/FiveM_GTAProcess_9plHIDF6gp.png)
+![](https://i.imgur.com/v3jxiuz.jpeg)
 
 
 ### Credits
